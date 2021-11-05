@@ -90,7 +90,7 @@ people use in scenarios like this.
 
 ## Box 3: Windows Server 2019
 
-## Open Ports: 135, 139, 445, 5357
+### Open Ports: 135, 139, 445, 5357
 
 I'm not a Windows guy (and I'll admit to being a bit short on time when I was
 putting this lab together), so I didn't actually add any path to get root (or
